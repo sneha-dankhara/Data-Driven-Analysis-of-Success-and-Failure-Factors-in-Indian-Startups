@@ -20,5 +20,22 @@ The selected dataset contains Indian startups with resolved outcomes:
 ### Current Project Stage
 Project initialization and dataset selection.
 
-### Next Step
-Define the problem statement, project objectives, scope, and research questions.
+
+
+
+
+
+## Day 2 - Project Definition
+
+### Work Done
+- Defined the main problem of the project.
+- Decided the objectives of the analysis.
+- Defined what will be considered success and failure.
+- Listed the main questions that I want to answer using the dataset.
+- Defined the basic scope and limitations of the project.
+
+
+
+
+
+
