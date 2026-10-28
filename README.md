@@ -2,11 +2,11 @@
 
 A data science project exploring the factors associated with **startup success and failure in the Indian startup ecosystem** using data cleaning, exploratory data analysis, statistical analysis, and visualization.
 
-## 🎯 Project Objective
+## -> Project Objective
 
 The objective of this project is to analyze Indian startup data and identify patterns in factors such as **funding, funding rounds, industry/category, location, and startup status** that may be associated with startup success or failure.
 
-## 📊 Dataset
+## -> Dataset
 
 The project uses an Indian startup dataset containing information such as:
 
@@ -23,7 +23,7 @@ For this analysis:
 * **Closed** → Failure
 * **Operating** → Excluded from final success/failure comparison because the final outcome is not yet known
 
-## 🛠️ Tools & Technologies
+## -> Tools & Technologies
 
 * Python
 * Pandas
@@ -33,7 +33,7 @@ For this analysis:
 * Jupyter / Google Colab
 * Git & GitHub
 
-## 🔍 Project Workflow
+## -> Project Workflow
 
 1. Problem Definition & Dataset Selection
 2. Data Understanding
@@ -45,7 +45,7 @@ For this analysis:
 8. Insights & Conclusions
 
 
-## 🚧 Project Status
+## -> Project Status
 
 **In Progress**
 
